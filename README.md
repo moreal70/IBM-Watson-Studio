@@ -5,4 +5,4 @@
 
 **`titinic survival prediction`** : Machine learning sample at Watson studio, original source must be changed for supporting input data on IBM object storage.
 
-**compose for MySQL connection** : How to connect MySQL DB on IBM Cloud PaaS
+**`compose for MySQL connection`** : How to connect MySQL DB on IBM Cloud PaaS
