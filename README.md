@@ -14,7 +14,7 @@
 
 *`MySQL access with R.ipynb`* : mysql 을 생성하고 DB 에 접속하여 DDL,DML 등을 수행하는 R 코드입니다.
 
-*`MySQL-connection info`* : ***Compose for MySQL*** IBM cloud PaaS 에서 생성하고 이 서비스를 Python 이나 R code 에서 접속하기 위한 connection 정보 흭득 방법입니다. 
+*`MySQL-connection info`* : [Compose for MySQL](https://console.bluemix.net/catalog/services/compose-for-mysql) IBM cloud PaaS 에서 생성하고 이 서비스를 Python 이나 R code 에서 접속하기 위한 connection 정보 흭득 방법입니다. 
 
 *`Titinic survival prediction`* : 가장 초보적인 Machine learning 학습을 위한 sample 소스입니다. Watson studio에서 사용하기 위해서 수정이 필요한 작업 내용을 추가하엿습니다. Input 소스 데이터를 IBM object storage에서 가져오는 절차입니다.
 
