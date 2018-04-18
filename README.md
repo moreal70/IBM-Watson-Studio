@@ -1,5 +1,5 @@
 
-## IBM Watson Studio 사용자 가이드 ##
+ ## IBM Watson Studio 사용자 가이드 ##
 
  * 본 문서는 Machine Learning & Advanced Analytics 플랫폼인 IBM Watson Studio에 대한 사용자팁를 제공합니다.
  * 각각의 문서는 다양한 경로를 통해 확보된 소스 화일을 IBM Watson Studio 환경에서 수행가능 하도록 수정하였습니다.
@@ -8,7 +8,7 @@
 
 ![watson data platform](https://github.com/moreal70/IBM-Watson-Studio/raw/master/images/ibm-watson-data-platform.png)
 
-*`GITHUB integration process.ipynb`* : Studio에서 개발된 소스 코드를 Github에 업로드 하기 위한 설정 과정입니다.
+:flushed: *`GITHUB integration process.ipynb`* : Studio에서 개발된 소스 코드를 Github에 업로드 하기 위한 설정 과정입니다.
 
 *`MySQL access with Python.ipynb`* : mysql 을 생성하고 DB 에 접속하여 DDL,DML 등을 수행하는 Python 코드입니다.
 
