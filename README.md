@@ -20,11 +20,11 @@
 
 *`Quantum_emoticon.ipynb`* : IBM Q quantum program 으로 'Hello world'에 해당하는 기초 샘플 코드입니다.
 
-*`WML using PMML.ipynb`* : ***Watson Machine Learning*** 서비스를 활용하여 ML model 을 생성,저장,활용하는 과정을 Iris 데이터로 보여줍니다. 
+*`WML using PMML.ipynb`* : [Watson Machine Learning](https://console.bluemix.net/catalog/services/machine-learning) 서비스를 활용하여 ML model 을 생성,저장,활용하는 과정을 Iris 데이터로 보여줍니다. 
 
 *`WML-from kaggle titanic.ipynb`* : ML 초보를 위한 대표 프로그램인 Titanic 생존자 분석 프로그램을 Kaggle에서 folk 하고 수행하는 일련을 절차를 설명했습니다.
 
-*`WML-with XGBoost for cancer detection.ipynb`* : ***Watson Machine Learning*** 을 활용하여 ML model 을 생성,저장,활용하는 과정을 cancer data로 보여줍니다
+*`WML-with XGBoost for cancer detection.ipynb`* : [Watson Machine Learning](https://console.bluemix.net/catalog/services/machine-learning) 서비스를 활용하여 ML model 을 생성,저장,활용하는 과정을 cancer data로 보여줍니다
 
 
 *`images`* : notebook 이나 R studio 에서 사용하기 위한 image 화일들을 저장하기 위한 directory 입니다. 모든 화일은 URL 을 가지고 reference 되도록 코딩 되어 있습니다.
