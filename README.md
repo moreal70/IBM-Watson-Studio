@@ -6,6 +6,8 @@
  * 수정 및 Watson studio 상에서 필요한 작업 들을 가능하면 screen capture를 통해서 설명하였습니다.
  * 잘못된 부분이나 보완이 필요한 사항은 메모 남겨 주세요.
 
+![watson data platform](https://github.com/moreal70/IBM-Watson-Studio/raw/master/images/ibm-watson-data-platform.png)
+
 **`Titinic survival prediction`** : 가장 초보적인 Machine learning 학습을 위한 sample 소스입니다. Watson studio에서 사용하기 위해서 수정이 필요한 작업 내용을 추가하엿습니다. Input 소스 데이터를 IBM object storage에서 가져오는 절차입니다.
 
 **`MySQL connection 활용`** : compose for MySQL을 IBM cloud PaaS 에서 생성하고 이 서비스를 Python 이나 R code 에서 분석을 위해 사용하기 위해서 필요한 절차입니다.
