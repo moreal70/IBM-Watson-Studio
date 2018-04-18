@@ -8,13 +8,13 @@
 
 ![watson data platform](https://github.com/moreal70/IBM-Watson-Studio/raw/master/images/ibm-watson-data-platform.png)
 
-**`GITHUB integration process.ipynb`** : Studio에서 개발된 소스 코드를 Github에 업로드 하기 위한 설정 과정입니다.
+*`GITHUB integration process.ipynb`* : Studio에서 개발된 소스 코드를 Github에 업로드 하기 위한 설정 과정입니다.
 
 **`MySQL access with Python.ipynb`** : mysql 을 생성하고 DB 에 접속하여 DDL,DML 등을 수행하는 Python 코드입니다.
 
 **`MySQL access with R.ipynb`** : mysql 을 생성하고 DB 에 접속하여 DDL,DML 등을 수행하는 R 코드입니다.
 
-**`MySQL-connection info`** : **Compose for MySQL** IBM cloud PaaS 에서 생성하고 이 서비스를 Python 이나 R code 에서 접속하기 위한 connection 정보 흭득 방법입니다. 
+**`MySQL-connection info`** : ***Compose for MySQL*** IBM cloud PaaS 에서 생성하고 이 서비스를 Python 이나 R code 에서 접속하기 위한 connection 정보 흭득 방법입니다. 
 
 **`Titinic survival prediction`** : 가장 초보적인 Machine learning 학습을 위한 sample 소스입니다. Watson studio에서 사용하기 위해서 수정이 필요한 작업 내용을 추가하엿습니다. Input 소스 데이터를 IBM object storage에서 가져오는 절차입니다.
 
@@ -24,7 +24,7 @@
 
 **`WML-from kaggle titanic.ipynb`** : ML 초보를 위한 대표 프로그램인 Titanic 생존자 분석 프로그램을 Kaggle에서 folk 하고 수행하는 일련을 절차를 설명했습니다.
 
-**`WML-with XGBoost for cancer detection.ipynb `** : ***Watson Machine Learning***을 활용하여 ML model 을 생성,저장,활용하는 과정을 cancer data로 보여줍니다
+**`WML-with XGBoost for cancer detection.ipynb`** : ***Watson Machine Learning*** 을 활용하여 ML model 을 생성,저장,활용하는 과정을 cancer data로 보여줍니다
 
 
 **`images`** : notebook 이나 R studio 에서 사용하기 위한 image 화일들을 저장하기 위한 directory 입니다. 모든 화일은 URL 을 가지고 reference 되도록 코딩 되어 있습니다.
