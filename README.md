@@ -21,6 +21,8 @@
 
 :snowflake:*`MySQL-connection info`* : [Compose for MySQL](https://console.bluemix.net/catalog/services/compose-for-mysql) IBM cloud PaaS 에서 생성하고 이 서비스를 Python 이나 R code 에서 접속하기 위한 connection 정보 흭득 방법입니다. 
 
+:rabbit:*`Tensorflow_Linear_regression`* : tensorflow 라이브러리를 이용하여 아주 간단한 linear regression 모델을 돌려봅니다.
+
 :snowman:*`Titinic survival prediction`* : 가장 초보적인 Machine learning 학습을 위한 sample 소스입니다. Watson studio에서 사용하기 위해서 수정이 필요한 작업 내용을 추가하엿습니다. Input 소스 데이터를 IBM object storage에서 가져오는 절차입니다.
 
 :zap:*`Quantum_emoticon.ipynb`* : IBM Q quantum program 으로 'Hello world'에 해당하는 기초 샘플 코드입니다.
