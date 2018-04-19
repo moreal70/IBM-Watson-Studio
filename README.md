@@ -8,6 +8,11 @@
 
 ![watson data platform](https://github.com/moreal70/IBM-Watson-Studio/raw/master/images/ibm-watson-data-platform.png)
 
+
+:hamster:*`Db2WH connection info`* : [Db2 warehouse on cloud](https://console.bluemix.net/catalog/services/db2-warehouse) 서비스에 프로그램에서 접속하기 위한 정보 획득 절차 입니다.
+
+:mouse:*`Db2WH access with Python-jdbc`* : [Db2 warehouse on cloud](https://console.bluemix.net/catalog/services/db2-warehouse) 서비스 이용하는 python/jdbc 샘플입니다. 
+
 :sunny:*`GITHUB integration process.ipynb`* : Studio에서 개발된 소스 코드를 Github에 업로드 하기 위한 설정 과정입니다.
 
 :umbrella:*`MySQL access with Python.ipynb`* : mysql 을 생성하고 DB 에 접속하여 DDL,DML 등을 수행하는 Python 코드입니다.
