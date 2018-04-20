@@ -15,6 +15,8 @@
 
 :sunny:*`GITHUB integration process.ipynb`* : Studio에서 개발된 소스 코드를 Github에 업로드 하기 위한 설정 과정입니다.
 
+:wolf: *`Knowledge Catalog_how to add object`* : data asset, notebook, connection 등 object 추가 절차를 설명합니다. 
+
 :umbrella:*`MySQL access with Python.ipynb`* : mysql 을 생성하고 DB 에 접속하여 DDL,DML 등을 수행하는 Python 코드입니다.
 
 :cloud:*`MySQL access with R.ipynb`* : mysql 을 생성하고 DB 에 접속하여 DDL,DML 등을 수행하는 R 코드입니다.
