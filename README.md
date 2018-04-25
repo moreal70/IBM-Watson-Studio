@@ -23,7 +23,7 @@
 
 :snowflake:*`MySQL-connection info`* : [Compose for MySQL](https://console.bluemix.net/catalog/services/compose-for-mysql) IBM cloud PaaS 에서 생성하고 이 서비스를 Python 이나 R code 에서 접속하기 위한 connection 정보 흭득 방법입니다. 
 
-:panda_face:*`NLU for correlate text content `* : [Natural Language Understanding](https://console.bluemix.net/catalog/services/natural-language-understanding) NLU 를 이용해서 두개 문서의 상관관계를 분석하는 예제 입니다.    
+:panda_face:*`NLU for correlate text content `* : [Natural Language Understanding](https://console.bluemix.net/catalog/services/natural-language-understanding)를 이용해서 두개 문서의 상관관계를 분석하는 예제 입니다.    
 
 :rabbit:*`Tensorflow_Linear_regression`* : tensorflow 라이브러리를 이용하여 아주 간단한 linear regression 모델을 돌려봅니다.
 
@@ -40,7 +40,6 @@
 ----------
 
 :cat:*`images`* : notebook 이나 R studio 에서 사용하기 위한 image 화일들을 저장하기 위한 directory 입니다. 모든 화일은 URL 을 가지고 reference 되도록 코딩 되어 있습니다.
-
 
 
 
