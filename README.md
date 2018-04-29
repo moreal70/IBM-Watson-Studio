@@ -1,5 +1,5 @@
 
-## IBM Watson Studio 사용자 가이드 ##
+## IBM Watson Studio 사용자 가이드 & 팁 ##
 
  * 본 문서는 Machine Learning & Advanced Analytics 플랫폼인 [IBM Watson Studio](https://console.bluemix.net/catalog/services/watson-studio)에 대한 사용자팁를 제공합니다.
  * 각각의 문서는 다양한 경로를 통해 확보된 소스 화일을 IBM Watson Studio 환경에서 수행가능 하도록 수정하였습니다.
