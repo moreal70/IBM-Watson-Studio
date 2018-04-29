@@ -26,13 +26,13 @@
 
 :foggy:*`Machine Learning Algorithm-kaggle`* : Kaggle에서 소스를 folk 하고 수행하는 일련을 절차를 설명했습니다.
 
-:umbrella:*`MySQL access with Python.ipynb`* : mysql 을 생성하고 DB 에 접속하여 DDL,DML 등을 수행하는 Python 코드입니다.
+:umbrella:*`MySQL access with Python`* : mysql 을 생성하고 DB 에 접속하여 DDL,DML 등을 수행하는 Python 코드입니다.
 
-:cloud:*`MySQL access with R.ipynb`* : mysql 을 생성하고 DB 에 접속하여 DDL,DML 등을 수행하는 R 코드입니다.
+:cloud:*`MySQL access with Rb`* : mysql 을 생성하고 DB 에 접속하여 DDL,DML 등을 수행하는 R 코드입니다.
 
-:panda_face:*`NLU for correlate text content `* : [Natural Language Understanding](https://console.bluemix.net/catalog/services/natural-language-understanding)를 이용해서 두개 문서의 상관관계를 분석하는 예제 입니다.    
+:panda_face:*`NLU for correlate text content `* : [Natural Language Understanding](https://console.bluemix.net/catalog/services/natural-language-understanding)를 이용해서 두개 문서의 상관관계를 분석하는 예제임    
 
-:zap:*`Quantum_emoticon.ipynb`* : IBM Q quantum program 으로 'Hello world'에 해당하는 기초 샘플 코드입니다.
+:zap:*`Quantum_emoticon`* : IBM Q quantum program 으로 'Hello world'에 해당하는 기초 샘플 코드입니다.
 
 :hatched_chick:*`R Visualization for 1854 Cholera breakout`* : R을 활용한 visualizaiton 예시 소스입니다. 
 
@@ -40,9 +40,9 @@
 
 :rabbit:*`Tensorflow_Linear_regression`* : tensorflow 라이브러리를 이용하여 아주 간단한 linear regression 모델을 돌려봅니다.
 
-:cyclone:*`WML using PMML.ipynb`* : [Watson Machine Learning](https://console.bluemix.net/catalog/services/machine-learning) 서비스를 활용하여 ML model 을 생성,저장,활용하는 과정을 Iris 데이터로 보여줍니다. 
+:cyclone:*`WML using PMML`* : [Watson Machine Learning](https://console.bluemix.net/catalog/services/machine-learning) 서비스를 활용하여 ML model 을 생성,저장,활용하는 과정을 Iris 데이터로 보여줍니다. 
 
-:ocean:*`WML-with XGBoost for cancer detection.ipynb`* : [Watson Machine Learning](https://console.bluemix.net/catalog/services/machine-learning) 서비스를 활용하여 ML model 을 생성,저장,활용하는 과정을 cancer data로 보여줍니다
+:ocean:*`WML-with XGBoost for cancer detection`* : [Watson Machine Learning](https://console.bluemix.net/catalog/services/machine-learning) 서비스를 활용하여 ML model 을 생성,저장,활용하는 과정을 cancer data로 보여줍니다
 
 ----------
 
